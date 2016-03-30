@@ -1,5 +1,5 @@
 # SimpleSkype
-Modular, plugin based Skype bot utilizing Skype4Sharp
+Modular, plugin based Skype bot utilizing Skype4Sharp (reuploaded)
 
 By reading this project's source code, compiling as a binary, redistributing assets found in this repository, etc, or ANY form of use, you must agree to the license enlisted below.
 
