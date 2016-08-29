@@ -5,10 +5,6 @@ By reading this project's source code, compiling as a binary, redistributing ass
 
 As this project uses [Skype4Sharp] (https://github.com/lin-e/Skype4Sharp/), which itself has some documentation, please visit there for additional usage information. The documentation provided here is solely for the bot itself.
 
-# Official Forum Posts (others may be fake)
-- [HackForums] (http://hackforums.net/showthread.php?tid=5201320)
-- [LeakForums] (https://leakforums.net/thread-692877)
-
 # Directory Structure
 ```
 .
